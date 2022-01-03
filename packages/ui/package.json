@@ -23,7 +23,7 @@
   },
   "private": "true",
   "dependencies": {
-    "abortable-iterator": "^3.0.0",
+    "abortable-iterator": "^3.0.1",
     "bufferutil": "^4.0.3",
     "daemon": "file:../daemon",
     "pino": "^6.12.0",
